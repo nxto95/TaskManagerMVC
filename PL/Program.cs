@@ -1,3 +1,4 @@
+using BLL.DependencyInjection;
 using DAL.Database;
 using DAL.DependencyInjection;
 using Microsoft.EntityFrameworkCore;
@@ -8,6 +9,7 @@ var builder = WebApplication.CreateBuilder(args);
 builder.Services.AddControllersWithViews();
 builder.Services.AddDbContext<AppDbContext>(ops => ops.UseSqlServer(builder.Configuration.GetConnectionString("TaskManagerDB")));
 builder.Services.AddDal();
+builder.Services.AddBLL();
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.

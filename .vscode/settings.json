@@ -1,3 +1,4 @@
 {
-  "dotnet.defaultSolution": "PL.slnx"
+  "dotnet.defaultSolution": "PL.slnx",
+  "cSpell.words": ["Dtos"]
 }

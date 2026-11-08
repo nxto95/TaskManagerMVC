@@ -1,0 +1,14 @@
+/home/nxto/Programming/TaskManagerMVC/DAL/bin/Debug/net10.0/DAL.deps.json
+/home/nxto/Programming/TaskManagerMVC/DAL/bin/Debug/net10.0/DAL.runtimeconfig.json
+/home/nxto/Programming/TaskManagerMVC/DAL/bin/Debug/net10.0/DAL.dll
+/home/nxto/Programming/TaskManagerMVC/DAL/bin/Debug/net10.0/DAL.pdb
+/home/nxto/Programming/TaskManagerMVC/DAL/obj/Debug/net10.0/DAL.csproj.AssemblyReference.cache
+/home/nxto/Programming/TaskManagerMVC/DAL/obj/Debug/net10.0/DAL.GeneratedMSBuildEditorConfig.editorconfig
+/home/nxto/Programming/TaskManagerMVC/DAL/obj/Debug/net10.0/DAL.AssemblyInfoInputs.cache
+/home/nxto/Programming/TaskManagerMVC/DAL/obj/Debug/net10.0/DAL.AssemblyInfo.cs
+/home/nxto/Programming/TaskManagerMVC/DAL/obj/Debug/net10.0/DAL.csproj.CoreCompileInputs.cache
+/home/nxto/Programming/TaskManagerMVC/DAL/obj/Debug/net10.0/DAL.dll
+/home/nxto/Programming/TaskManagerMVC/DAL/obj/Debug/net10.0/refint/DAL.dll
+/home/nxto/Programming/TaskManagerMVC/DAL/obj/Debug/net10.0/DAL.pdb
+/home/nxto/Programming/TaskManagerMVC/DAL/obj/Debug/net10.0/DAL.genruntimeconfig.cache
+/home/nxto/Programming/TaskManagerMVC/DAL/obj/Debug/net10.0/ref/DAL.dll
